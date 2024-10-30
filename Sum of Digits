@@ -1,0 +1,8 @@
+x = int(input("Enter a number : "))
+sum = 0
+while x != 0:
+    rem = x % 10
+    sum += rem
+    x //= 10
+
+print(f"The sum of digits are : {sum}")
