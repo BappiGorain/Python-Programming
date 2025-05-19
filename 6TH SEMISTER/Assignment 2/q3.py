@@ -1,0 +1,1 @@
+#write a program that takes a number n as input and prints n-digit trictly increasing order ?
